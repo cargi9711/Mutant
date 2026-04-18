@@ -1,0 +1,7 @@
+mutant_system:
+  max_level: 10
+  base_power_multiplier: 1.5
+  mutation_types:
+    - Physical
+    - Mental
+    - Elemental
